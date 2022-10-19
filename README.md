@@ -1,8 +1,8 @@
 # 🔋 Battery Level Indicator Percentage
-## [Watch it on youtube](https://youtu.be/0gV3kmnLir0)
+## [Preview Project](https://electronjs.org)
 ### 🔋 Battery Level Indicator Percentage
 
-- Battery Level Indicator Percentage Using HTML CSS & JavaScript .
+- Battery Level Indicator Percentage Using HTML, CSS, JavaScript & [Electron](https://electronjs.org).
 - Beautiful pill style battery.
 - With animation of low battery, charging battery and full battery.
 - Color indicators according to the percentage of the battery.
